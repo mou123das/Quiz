@@ -81,7 +81,7 @@ function showScores()
 	if(score==5)
 		message="Excellent &#129351;";
 	else if(score>=3 && score<=4)
-		message="Good";
+		message="Good &#129352;";
 	else if(score>=1 && score<=2)
 		message="Satisfactory";
 	else
