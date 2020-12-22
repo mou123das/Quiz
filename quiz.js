@@ -79,7 +79,7 @@ function showScores()
 	var message="";
 	
 	if(score==5)
-		message="Excellent";
+		message="Excellent &#129351;";
 	else if(score>=3 && score<=4)
 		message="Good";
 	else if(score>=1 && score<=2)
